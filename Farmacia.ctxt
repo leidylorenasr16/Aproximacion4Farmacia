@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Farmacia
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Farmacia\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nit\ nombreFarmacia\ direccion
+comment1.target=Farmacia(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getNombreFarmacia()
+comment4.params=nombreFarmacia
+comment4.target=void\ setNombreFarmacia(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=direccion
+comment6.target=void\ setDireccion(java.lang.String)
+comment7.params=
+comment7.target=int\ getNumClientes()
+comment8.params=
+comment8.target=double\ calcularPromedioCompras()
+comment9.params=identificacion\ nombre\ sucursal\ compra1\ compra2\ compra3
+comment9.target=void\ adicionarCliente(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+numComments=10
